@@ -1,0 +1,1454 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Music App",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2 (Pro)",
+            "screenshot": "screenshots\/home-2-pro-.jpg",
+            "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Music",
+            "screenshot": "screenshots\/music.jpg",
+            "source": "templates\/music-c554c93da97b1e157f9eeb8f59b86a16.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Mixes",
+            "screenshot": "screenshots\/mixes.jpg",
+            "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Mixes 2",
+            "screenshot": "screenshots\/mixes-2.jpg",
+            "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Artists (Pro)",
+            "screenshot": "screenshots\/artists-pro-.jpg",
+            "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Features",
+            "screenshot": "screenshots\/features.jpg",
+            "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about-bdaaa81715dfa051ef8d4cf73d0d612e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Support",
+            "screenshot": "screenshots\/support.jpg",
+            "source": "templates\/support-e131a5de1e8cd49be2eb836e79fbc374.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact (Pro)",
+            "screenshot": "screenshots\/contact-pro-.jpg",
+            "source": "templates\/contact-pro-bc35e9911789d91187d321d35cbbe38a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [],
+    "images": [
+        {
+            "filename": "331-mckinsey-35-1-e1597060248397.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/331-mckinsey-35-1-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+                    "name": "Mixes"
+                },
+                {
+                    "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+                    "name": "Mixes 2"
+                },
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/support-e131a5de1e8cd49be2eb836e79fbc374.json",
+                    "name": "Support"
+                },
+                {
+                    "source": "templates\/contact-pro-bc35e9911789d91187d321d35cbbe38a.json",
+                    "name": "Contact (Pro)"
+                }
+            ],
+            "filesize": 166673,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "soundwave.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/soundwave-500x146.png",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 29078,
+            "dimensions": [
+                1888,
+                552
+            ]
+        },
+        {
+            "filename": "blog.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/blog-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/support-e131a5de1e8cd49be2eb836e79fbc374.json",
+                    "name": "Support"
+                }
+            ],
+            "filesize": 11771,
+            "dimensions": [
+                512,
+                512
+            ]
+        },
+        {
+            "filename": "mobile.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/mobile-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/support-e131a5de1e8cd49be2eb836e79fbc374.json",
+                    "name": "Support"
+                }
+            ],
+            "filesize": 11806,
+            "dimensions": [
+                512,
+                512
+            ]
+        },
+        {
+            "filename": "cassette.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/cassette-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/support-e131a5de1e8cd49be2eb836e79fbc374.json",
+                    "name": "Support"
+                }
+            ],
+            "filesize": 24611,
+            "dimensions": [
+                512,
+                512
+            ]
+        },
+        {
+            "filename": "upload.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/upload-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/support-e131a5de1e8cd49be2eb836e79fbc374.json",
+                    "name": "Support"
+                }
+            ],
+            "filesize": 19882,
+            "dimensions": [
+                512,
+                512
+            ]
+        },
+        {
+            "filename": "music-app1-e1597060311406.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/music-app1-500x479.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/support-e131a5de1e8cd49be2eb836e79fbc374.json",
+                    "name": "Support"
+                }
+            ],
+            "filesize": 221018,
+            "dimensions": [
+                1190,
+                1140
+            ]
+        },
+        {
+            "filename": "music-friends-e1597060294989.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/music-friends-500x308.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/support-e131a5de1e8cd49be2eb836e79fbc374.json",
+                    "name": "Support"
+                }
+            ],
+            "filesize": 156112,
+            "dimensions": [
+                1440,
+                886
+            ]
+        },
+        {
+            "filename": "musicapp_mockup.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/musicapp_mockup.png",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/support-e131a5de1e8cd49be2eb836e79fbc374.json",
+                    "name": "Support"
+                }
+            ],
+            "filesize": 127599,
+            "dimensions": [
+                342,
+                445
+            ]
+        },
+        {
+            "filename": "natalie-cardona-W8BRzoUTHNA-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/natalie-cardona-W8BRzoUTHNA-unsplash-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+                    "name": "Mixes"
+                }
+            ],
+            "filesize": 379288,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "te-nguyen-Wt7XT1R6sjU-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/te-nguyen-Wt7XT1R6sjU-unsplash-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+                    "name": "Mixes"
+                },
+                {
+                    "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+                    "name": "Mixes 2"
+                }
+            ],
+            "filesize": 189213,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "woman-in-black-playing-cello-on-whitfield-2960156.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/woman-in-black-playing-cello-on-whitfield-2960156-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                }
+            ],
+            "filesize": 197779,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "kari-shea-YCQFgqOzLmU-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/kari-shea-YCQFgqOzLmU-unsplash-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/music-c554c93da97b1e157f9eeb8f59b86a16.json",
+                    "name": "Music"
+                },
+                {
+                    "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+                    "name": "Mixes"
+                },
+                {
+                    "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+                    "name": "Mixes 2"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/about-bdaaa81715dfa051ef8d4cf73d0d612e.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 239824,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "toa-heftiba-Ju7ycYj8jfQ-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/toa-heftiba-Ju7ycYj8jfQ-unsplash-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/music-c554c93da97b1e157f9eeb8f59b86a16.json",
+                    "name": "Music"
+                },
+                {
+                    "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+                    "name": "Mixes"
+                },
+                {
+                    "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+                    "name": "Mixes 2"
+                },
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 318092,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "image-from-rawpixel-id-517195-jpeg-e1597059782199.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/image-from-rawpixel-id-517195-jpeg-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/music-c554c93da97b1e157f9eeb8f59b86a16.json",
+                    "name": "Music"
+                },
+                {
+                    "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+                    "name": "Mixes"
+                },
+                {
+                    "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+                    "name": "Mixes 2"
+                },
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/support-e131a5de1e8cd49be2eb836e79fbc374.json",
+                    "name": "Support"
+                },
+                {
+                    "source": "templates\/contact-pro-bc35e9911789d91187d321d35cbbe38a.json",
+                    "name": "Contact (Pro)"
+                }
+            ],
+            "filesize": 172983,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "hannah-gullixson-NVMCimQ9cdM-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/hannah-gullixson-NVMCimQ9cdM-unsplash-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+                    "name": "Mixes"
+                },
+                {
+                    "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+                    "name": "Mixes 2"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/about-bdaaa81715dfa051ef8d4cf73d0d612e.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 351035,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "jacek-dylag-hUHzaiAHuUc-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/jacek-dylag-hUHzaiAHuUc-unsplash-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+                    "name": "Mixes"
+                },
+                {
+                    "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+                    "name": "Mixes 2"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/about-bdaaa81715dfa051ef8d4cf73d0d612e.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 184712,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "elijah-m-henderson-xgT3iQDIijU-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/elijah-m-henderson-xgT3iQDIijU-unsplash-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+                    "name": "Mixes"
+                },
+                {
+                    "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+                    "name": "Mixes 2"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/about-bdaaa81715dfa051ef8d4cf73d0d612e.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 308389,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "gabriel-gurrola-2UuhMZEChdc-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/gabriel-gurrola-2UuhMZEChdc-unsplash-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+                    "name": "Mixes"
+                },
+                {
+                    "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+                    "name": "Mixes 2"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/about-bdaaa81715dfa051ef8d4cf73d0d612e.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 162415,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "jamakassi-wejxKZ-9IZg-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/jamakassi-wejxKZ-9IZg-unsplash-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+                    "name": "Mixes"
+                },
+                {
+                    "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+                    "name": "Mixes 2"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/about-bdaaa81715dfa051ef8d4cf73d0d612e.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 312478,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "pexels-photo-1371177.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/pexels-photo-1371177-500x334.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/music-c554c93da97b1e157f9eeb8f59b86a16.json",
+                    "name": "Music"
+                },
+                {
+                    "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+                    "name": "Mixes"
+                },
+                {
+                    "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+                    "name": "Mixes 2"
+                },
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/about-bdaaa81715dfa051ef8d4cf73d0d612e.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/support-e131a5de1e8cd49be2eb836e79fbc374.json",
+                    "name": "Support"
+                },
+                {
+                    "source": "templates\/contact-pro-bc35e9911789d91187d321d35cbbe38a.json",
+                    "name": "Contact (Pro)"
+                }
+            ],
+            "filesize": 50769,
+            "dimensions": [
+                940,
+                627
+            ]
+        },
+        {
+            "filename": "roman-kraft-K_re5snQPU8-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/roman-kraft-K_re5snQPU8-unsplash-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/music-c554c93da97b1e157f9eeb8f59b86a16.json",
+                    "name": "Music"
+                },
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/about-bdaaa81715dfa051ef8d4cf73d0d612e.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/support-e131a5de1e8cd49be2eb836e79fbc374.json",
+                    "name": "Support"
+                }
+            ],
+            "filesize": 201048,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "googleplay.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/googleplay.png",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3812,
+            "dimensions": [
+                153,
+                46
+            ]
+        },
+        {
+            "filename": "appstore.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/appstore.png",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3293,
+            "dimensions": [
+                150,
+                60
+            ]
+        },
+        {
+            "filename": "turntable-e836b20821_640.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/turntable-e836b20821_640-500x298.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+                    "name": "Mixes"
+                },
+                {
+                    "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+                    "name": "Mixes 2"
+                },
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/about-bdaaa81715dfa051ef8d4cf73d0d612e.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/support-e131a5de1e8cd49be2eb836e79fbc374.json",
+                    "name": "Support"
+                },
+                {
+                    "source": "templates\/contact-pro-bc35e9911789d91187d321d35cbbe38a.json",
+                    "name": "Contact (Pro)"
+                }
+            ],
+            "filesize": 71010,
+            "dimensions": [
+                640,
+                382
+            ]
+        },
+        {
+            "filename": "pexels-photo-1371177-1-e1597060222408.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/pexels-photo-1371177-1-500x249.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/support-e131a5de1e8cd49be2eb836e79fbc374.json",
+                    "name": "Support"
+                },
+                {
+                    "source": "templates\/contact-pro-bc35e9911789d91187d321d35cbbe38a.json",
+                    "name": "Contact (Pro)"
+                }
+            ],
+            "filesize": 230385,
+            "dimensions": [
+                1920,
+                955
+            ]
+        },
+        {
+            "filename": "pexels-photo-15811773-e1597060210648.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/pexels-photo-15811773-500x249.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                }
+            ],
+            "filesize": 302278,
+            "dimensions": [
+                1920,
+                955
+            ]
+        },
+        {
+            "filename": "image-from-rawpixel-id-414525-jpeg-e1597060260920.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/image-from-rawpixel-id-414525-jpeg-500x252.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+                    "name": "Mixes"
+                },
+                {
+                    "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+                    "name": "Mixes 2"
+                },
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/support-e131a5de1e8cd49be2eb836e79fbc374.json",
+                    "name": "Support"
+                },
+                {
+                    "source": "templates\/contact-pro-bc35e9911789d91187d321d35cbbe38a.json",
+                    "name": "Contact (Pro)"
+                }
+            ],
+            "filesize": 223988,
+            "dimensions": [
+                1920,
+                967
+            ]
+        },
+        {
+            "filename": "music-collab.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/music-collab.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/music-c554c93da97b1e157f9eeb8f59b86a16.json",
+                    "name": "Music"
+                },
+                {
+                    "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+                    "name": "Mixes"
+                },
+                {
+                    "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+                    "name": "Mixes 2"
+                },
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/about-bdaaa81715dfa051ef8d4cf73d0d612e.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/support-e131a5de1e8cd49be2eb836e79fbc374.json",
+                    "name": "Support"
+                },
+                {
+                    "source": "templates\/contact-pro-bc35e9911789d91187d321d35cbbe38a.json",
+                    "name": "Contact (Pro)"
+                }
+            ],
+            "filesize": 5151,
+            "dimensions": [
+                76,
+                64
+            ]
+        },
+        {
+            "filename": "catalog.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/catalog.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/music-c554c93da97b1e157f9eeb8f59b86a16.json",
+                    "name": "Music"
+                },
+                {
+                    "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+                    "name": "Mixes"
+                },
+                {
+                    "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+                    "name": "Mixes 2"
+                },
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/about-bdaaa81715dfa051ef8d4cf73d0d612e.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/support-e131a5de1e8cd49be2eb836e79fbc374.json",
+                    "name": "Support"
+                },
+                {
+                    "source": "templates\/contact-pro-bc35e9911789d91187d321d35cbbe38a.json",
+                    "name": "Contact (Pro)"
+                }
+            ],
+            "filesize": 4825,
+            "dimensions": [
+                76,
+                78
+            ]
+        },
+        {
+            "filename": "recordplay.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/recordplay.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/music-c554c93da97b1e157f9eeb8f59b86a16.json",
+                    "name": "Music"
+                },
+                {
+                    "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+                    "name": "Mixes"
+                },
+                {
+                    "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+                    "name": "Mixes 2"
+                },
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/about-bdaaa81715dfa051ef8d4cf73d0d612e.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/support-e131a5de1e8cd49be2eb836e79fbc374.json",
+                    "name": "Support"
+                },
+                {
+                    "source": "templates\/contact-pro-bc35e9911789d91187d321d35cbbe38a.json",
+                    "name": "Contact (Pro)"
+                }
+            ],
+            "filesize": 8794,
+            "dimensions": [
+                76,
+                78
+            ]
+        },
+        {
+            "filename": "woman-in-gray-cardigan-playing-a-violin-during-daytime-111287.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/woman-in-gray-cardigan-playing-a-violin-during-daytime-111287-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                }
+            ],
+            "filesize": 341219,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "chuttersnap-r3dQGXRgScI-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/chuttersnap-r3dQGXRgScI-unsplash-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                }
+            ],
+            "filesize": 211654,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "woman-in-white-long-sleeve-dress-carrying-a-guitar-164767.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/woman-in-white-long-sleeve-dress-carrying-a-guitar-164767-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                }
+            ],
+            "filesize": 279771,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "recordheads-e1597060196518.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/recordheads-500x249.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/music-c554c93da97b1e157f9eeb8f59b86a16.json",
+                    "name": "Music"
+                },
+                {
+                    "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+                    "name": "Mixes"
+                },
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/about-bdaaa81715dfa051ef8d4cf73d0d612e.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 292518,
+            "dimensions": [
+                1920,
+                955
+            ]
+        },
+        {
+            "filename": "wes-hicks-MEL-jJnm7RQ-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/wes-hicks-MEL-jJnm7RQ-unsplash-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/music-c554c93da97b1e157f9eeb8f59b86a16.json",
+                    "name": "Music"
+                },
+                {
+                    "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+                    "name": "Mixes 2"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 275161,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "pexels-photo-1669162.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/pexels-photo-1669162-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/music-c554c93da97b1e157f9eeb8f59b86a16.json",
+                    "name": "Music"
+                },
+                {
+                    "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+                    "name": "Mixes"
+                },
+                {
+                    "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+                    "name": "Mixes 2"
+                },
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 79185,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "emily-finch-aW2ELKtnbRU-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/emily-finch-aW2ELKtnbRU-unsplash-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                }
+            ],
+            "filesize": 322025,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "pexels-photo-1616095.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/pexels-photo-1616095-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+                    "name": "Mixes"
+                },
+                {
+                    "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+                    "name": "Mixes 2"
+                },
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 299167,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "sell.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/sell.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/music-c554c93da97b1e157f9eeb8f59b86a16.json",
+                    "name": "Music"
+                },
+                {
+                    "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+                    "name": "Mixes"
+                },
+                {
+                    "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+                    "name": "Mixes 2"
+                },
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/about-bdaaa81715dfa051ef8d4cf73d0d612e.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/support-e131a5de1e8cd49be2eb836e79fbc374.json",
+                    "name": "Support"
+                },
+                {
+                    "source": "templates\/contact-pro-bc35e9911789d91187d321d35cbbe38a.json",
+                    "name": "Contact (Pro)"
+                }
+            ],
+            "filesize": 6250,
+            "dimensions": [
+                76,
+                78
+            ]
+        },
+        {
+            "filename": "pexels-photo-167092.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/pexels-photo-167092-500x334.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/music-c554c93da97b1e157f9eeb8f59b86a16.json",
+                    "name": "Music"
+                },
+                {
+                    "source": "templates\/mixes-1239973032010461f4f7ce1972eafba2.json",
+                    "name": "Mixes"
+                },
+                {
+                    "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+                    "name": "Mixes 2"
+                },
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                },
+                {
+                    "source": "templates\/about-bdaaa81715dfa051ef8d4cf73d0d612e.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/support-e131a5de1e8cd49be2eb836e79fbc374.json",
+                    "name": "Support"
+                },
+                {
+                    "source": "templates\/contact-pro-bc35e9911789d91187d321d35cbbe38a.json",
+                    "name": "Contact (Pro)"
+                }
+            ],
+            "filesize": 19074,
+            "dimensions": [
+                940,
+                627
+            ]
+        },
+        {
+            "filename": "pexels-photo-1762578.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/pexels-photo-1762578-500x625.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/music-c554c93da97b1e157f9eeb8f59b86a16.json",
+                    "name": "Music"
+                },
+                {
+                    "source": "templates\/mixes-2-ff5bf9dfe777b137fcdd60dd260e2fba.json",
+                    "name": "Mixes 2"
+                },
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                },
+                {
+                    "source": "templates\/features-d12347420eae08779bc20ec893c83382.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 208267,
+            "dimensions": [
+                1280,
+                1600
+            ]
+        },
+        {
+            "filename": "artworks-000237187297-gmqtmv-t500x500.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-204\/wp-content\/uploads\/sites\/199\/2019\/11\/artworks-000237187297-gmqtmv-t500x500-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/artists-pro-2d1c31eaf0424ee2341640a6fec10b2a.json",
+                    "name": "Artists (Pro)"
+                }
+            ],
+            "filesize": 33480,
+            "dimensions": [
+                500,
+                500
+            ]
+        }
+    ]
+}

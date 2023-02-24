@@ -1,0 +1,23 @@
+.envato-kit-95-clip{overflow: hidden;}
+/* Custom Form Input Style */
+.envato-kit-95-custom-form .elementor-field-textual{
+    background: transparent !important;
+    padding-left:0;
+}
+
+/* Shadow and Zoom for Hover Effect */
+.envato-kit-95-shadow-box:hover{
+    transform: scale(1.1);
+    box-shadow: 0 0 30px rgba(0,0,0,0.05);
+}
+.envato-kit-95-shadow-box{
+     transition: all .2s ease-in-out;
+}
+
+/* Hover Box */
+.envato-kit-95-hover-box:hover{
+    background: #fbfbfb;
+}
+.envato-kit-95-hover-box{
+     transition: all .2s ease-in-out;
+}
